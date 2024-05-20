@@ -8,3 +8,7 @@
 .refena_inspector/
 
 /secrets
+
+.devenv
+.direnv
+
